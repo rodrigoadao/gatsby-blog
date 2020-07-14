@@ -7,7 +7,8 @@ module.exports = {
     position: 'Desenvolvedor Web',
     description: `A blog about frontend development and other cool stuff`,
     author: `@RodrigoAdao`,
-    siteUrl: `https://rodrigoadao.com.br`
+    siteUrl: `https://rodrigoadao.netlify.app/`
+    //siteUrl: `https://rodrigoadao.com.br`
   },
   plugins: [
     `gatsby-plugin-react-helmet`, `gatsby-transformer-sharp`,`gatsby-plugin-sharp`,
