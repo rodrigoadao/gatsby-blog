@@ -27,7 +27,7 @@ const Profile = () => {
             <S.ProfileLink cover direction="left" bg={getThemeColor()} duration={0.6} to="/">
                 <Avatar />
                 <S.ProfileAuthor>
-                    <h1>{title}</h1>
+                    {title}
                     <S.ProfilePosition>{position}</S.ProfilePosition>
                 </S.ProfileAuthor>
                 <S.ProfileDescription>{description}</S.ProfileDescription>
