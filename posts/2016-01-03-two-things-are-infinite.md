@@ -3,7 +3,7 @@ date: 2016-01-03 06:23:21
 title: Two things are infinite
 description: And I'm not sure about the universe
 category: Misc
-background: "#7AAB13"
+background: "#50fa7b"
 image: "/assets/img/volcano.jpg"
 ---
 ---

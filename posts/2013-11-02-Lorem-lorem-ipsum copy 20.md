@@ -3,7 +3,7 @@ date: 2013-11-02 06:23:21
 title: Lorem lorem ipsu
 description: Lorem lorem ipsu Lorem lorem ipsu
 category: Lorem
-background: "#7AAB13"
+background: "#50fa7b"
 ---
 ---
 __Advertisement :)__

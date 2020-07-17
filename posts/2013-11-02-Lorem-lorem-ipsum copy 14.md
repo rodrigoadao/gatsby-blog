@@ -3,7 +3,7 @@ date: 2013-11-02 06:23:21
 title: teste
 description: Lorem lorem ipsu Lorem lorem ipsu
 category: Lorem
-background: "#7AAB13"
+background: "#50fa7b"
 ---
 
 ![Oceano](/assets/img/ocean.jpg)
